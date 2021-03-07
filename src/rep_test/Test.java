@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Folosire Repository GitHub");
 		System.out.println("heeei");
 		System.out.println("Test 2");
+		System.out.println("bunaaaaaaa");
 
 	}
 
