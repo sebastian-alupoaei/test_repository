@@ -9,6 +9,8 @@ public class Test {
 		System.out.println("bunaaaaaaa");
 		
 		System.out.println("Ma plictiiiiii!");
+		
+		ClasaA a = new ClasaA("PIP-PROIECT-AN3");
 
 	}
 
